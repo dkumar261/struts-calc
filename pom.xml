@@ -131,12 +131,9 @@
       </plugins>
           
     </pluginManagement>
-      
   </build>
   
   <modules>
-      
     <module>calc-web</module>
-      
   </modules>
 </project>
